@@ -1,9 +1,12 @@
 # CMPG-323-Overview-31648029
 Project 1 for CMPG 323 
 
+# Repositories and Descriptions 
 Project 1 - 
 Agile and Scrum 
 In this project we will be creating a Github Kanban project and link it to the repository, we will also create a board containing various information about our classes, deadlines, estimated tasks required etc. 
+* https://github.com/DanievdMerwe/CMPG-323-Overview---31648029
+* https://github.com/users/DanievdMerwe/projects/2
 
 Project 2 - 
 API Development 
@@ -19,19 +22,44 @@ In this project we will create a repository where we will take the project in Pr
 
 Project 5 - 
 Reporting and Monitoring
-In this project we will create a repository to showcase our needed skills to be able to creat reports in Power BI. This report is needed so that stakeholders can see the same infromation of the status of Internet of Things device registration. 
-
-Diagram explaining project and repository context and how the are integrated:
+In this project we will create a repository to showcase our needed skills to be able to creat reports in Power BI. This report is needed so that stakeholders can see the same information of the status of Internet of Things device registration. 
 
 
-Branching strategy to be used with each project:
+# Project and Repository context and integration: 
 
+Project 1 -
 
-The use of a .gitgnore file within each project:
+* Project 1 consists of a repository containing a this README file, a Kanban Project as well as 4 charts.
+The project has a Tabular, Status, Sprint, Linked Assessment and Custom view. These views display the information of tasks to do, deadlines, classes, and everything that needs to be done in various ways. 
 
+Project 2 -
+Project 3 -
+Project 4 - 
+Project 5 -
+Exam POE -
 
-Storage of credentials and sensitive information:
+# Branching strategy to be used with each project:
+I will be using the same branching strategy throughout all of my projects. These will consist of:
 
+* Main
+* Develop branch 
+
+These branches will allow for all and any modification that might need to be made to the project, and if there is needed, I will create another branch. 
+
+# The use of a .gitignore file within each project:
+
+.gitignore tells Git which files need to be ignored when you commit your project to the GitHub repository.
+
+Project 1 - We will not be using a .gitignore file for project 1
+Project 2 -
+Project 3 -
+Project 4 - 
+Project 5 -
+Exam POE -
+
+# Storage of credentials and sensitive information:
+
+The storage of all sensitive information and credentials will be stored externally from the repository and will be made available if it is requested. :)
 
 
 
