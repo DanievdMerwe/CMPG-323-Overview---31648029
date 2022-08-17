@@ -33,9 +33,13 @@ Project 1 -
 The project has a Tabular, Status, Sprint, Linked Assessment and Custom view. These views display the information of tasks to do, deadlines, classes, and everything that needs to be done in various ways. 
 
 Project 2 -
+
 Project 3 -
+
 Project 4 - 
+
 Project 5 -
+
 Exam POE -
 
 # Branching strategy to be used with each project:
@@ -51,10 +55,15 @@ These branches will allow for all and any modification that might need to be mad
 .gitignore tells Git which files need to be ignored when you commit your project to the GitHub repository.
 
 Project 1 - We will not be using a .gitignore file for project 1
+
 Project 2 -
+
 Project 3 -
+
 Project 4 - 
+
 Project 5 -
+
 Exam POE -
 
 # Storage of credentials and sensitive information:
