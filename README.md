@@ -66,6 +66,25 @@ Project 5 -
 
 Exam POE -
 
+# Reference List
+
+Project 1 - 
+ * https://github.com/users/JacquiM/projects/16
+ * https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories
+ * https://docs.github.com/en/issues/trying-out-the-new-projects-experience/about-projects
+ * https://docs.microsoft.com/en-us/learn/paths/manage-project-lifecycle-github/
+ * https://www.visual-paradigm.com/scrum/scrum-burndown-chart/
+ * https://docs.microsoft.com/en-us/learn/modules/intro-to-git/
+ 
+Project 2 -
+
+Project 3 -
+
+Project 4 - 
+
+Project 5 -
+
+Exam POE -
 # Storage of credentials and sensitive information:
 
 The storage of all sensitive information and credentials will be stored externally from the repository and will be made available if it is requested. :)
