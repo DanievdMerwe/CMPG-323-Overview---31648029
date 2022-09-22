@@ -33,6 +33,7 @@ Project 1 -
 The project has a Tabular, Status, Sprint, Linked Assessment and Custom view. These views display the information of tasks to do, deadlines, classes, and everything that needs to be done in various ways. 
 
 Project 2 -
+* Project 2 was made up of a repository with Visual Studio code to make an API. We then hosted it in Azure and used swagger so that it can be used. The README file explains how users should use the API and how it works. 
 
 Project 3 -
 
@@ -56,7 +57,7 @@ These branches will allow for all and any modification that might need to be mad
 
 Project 1 - We will not be using a .gitignore file for project 1
 
-Project 2 -
+Project 2 - I did not use a .gitignore file for project 2
 
 Project 3 -
 
@@ -77,6 +78,14 @@ Project 1 -
  * https://docs.microsoft.com/en-us/learn/modules/intro-to-git/
  
 Project 2 -
+* https://jd-bots.com/2022/01/24/join-two-entities-in-net-core-using-lambda-and-entity-framework-core/
+* https://docs.microsoft.com/en-us/learn/paths/create-microservices-with-dotnet/
+* https://docs.microsoft.com/en-us/aspnet/core/tutorials/publish-to-azure-api-management-using-vs?view=aspnetcore-6.0
+* https://docs.microsoft.com/en-us/aspnet/core/web-api/jsonpatch?view=aspnetcore-6.0
+* https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-6.0&tabs=visual-studio
+* https://docs.microsoft.com/en-us/aspnet/core/tutorials/publish-to-azure-api-management-using-vs?view=aspnetcore-6.0
+* https://www.youtube.com/watch?v=TlytBx3-k-k
+* https://www.pluralsight.com/courses/asp-dot-net-core-3-restful-api-building?aid=7010a000002BWqGAAW&promo=&utm_source=non_branded&utm_medium=digital_paid_search_google&utm_campaign=EMEA_Dynamic&utm_content=&gclid=Cj0KCQjwpeaYBhDXARIsAEzItbHAb18tXNlsW32ufFt72pv-zD2LMcaom1rz3YqAhIocMJtwopCpNTkaAg-JEALw_wcB
 
 Project 3 -
 
