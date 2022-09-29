@@ -33,9 +33,12 @@ Project 1 -
 The project has a Tabular, Status, Sprint, Linked Assessment and Custom view. These views display the information of tasks to do, deadlines, classes, and everything that needs to be done in various ways. 
 
 Project 2 -
+
 * Project 2 was made up of a repository with Visual Studio code to make an API. We then hosted it in Azure and used swagger so that it can be used. The README file explains how users should use the API and how it works. 
 
 Project 3 -
+
+* Project 3 was quite the challenge, I made a Web App and learned about Standards and Patterns as that was the main focus of project 3. The README file explains to a user how they will be able to use the app and how it works, as well as how they should register. 
 
 Project 4 - 
 
@@ -59,7 +62,7 @@ Project 1 - We will not be using a .gitignore file for project 1
 
 Project 2 - I did not use a .gitignore file for project 2
 
-Project 3 -
+Project 3 - I used a .gitignore file to hide sensitive information. 
 
 Project 4 - 
 
