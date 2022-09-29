@@ -78,16 +78,10 @@ Project 1 -
  * https://docs.microsoft.com/en-us/learn/modules/intro-to-git/
  
 Project 2 -
-* https://jd-bots.com/2022/01/24/join-two-entities-in-net-core-using-lambda-and-entity-framework-core/
-* https://docs.microsoft.com/en-us/learn/paths/create-microservices-with-dotnet/
-* https://docs.microsoft.com/en-us/aspnet/core/tutorials/publish-to-azure-api-management-using-vs?view=aspnetcore-6.0
-* https://docs.microsoft.com/en-us/aspnet/core/web-api/jsonpatch?view=aspnetcore-6.0
-* https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-6.0&tabs=visual-studio
-* https://docs.microsoft.com/en-us/aspnet/core/tutorials/publish-to-azure-api-management-using-vs?view=aspnetcore-6.0
-* https://www.youtube.com/watch?v=TlytBx3-k-k
-* https://www.pluralsight.com/courses/asp-dot-net-core-3-restful-api-building?aid=7010a000002BWqGAAW&promo=&utm_source=non_branded&utm_medium=digital_paid_search_google&utm_campaign=EMEA_Dynamic&utm_content=&gclid=Cj0KCQjwpeaYBhDXARIsAEzItbHAb18tXNlsW32ufFt72pv-zD2LMcaom1rz3YqAhIocMJtwopCpNTkaAg-JEALw_wcB
+* https://github.com/DanievdMerwe/CMPG-323-Overview---31648029/blob/44123940bd23f01405c1db221a518efab4157c5c/Project%202%20References%20.pdf
 
 Project 3 -
+* https://github.com/DanievdMerwe/CMPG-323-Overview---31648029/blob/44123940bd23f01405c1db221a518efab4157c5c/CMPG%20323%20Project%203%20Reference%20List.pdf
 
 Project 4 - 
 
