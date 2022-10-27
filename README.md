@@ -42,6 +42,8 @@ Project 3 -
 
 Project 4 - 
 
+* Project 4 had a steep learning curve and was quite difficult. I really enjoyed the automation and can sy myself in such a field. The README file explains how it works and how it is used.
+
 Project 5 -
 
 Exam POE -
@@ -64,7 +66,7 @@ Project 2 - I did not use a .gitignore file for project 2
 
 Project 3 - I used a .gitignore file to hide sensitive information. 
 
-Project 4 - 
+Project 4 - I used a .gitignore file to hide sensitive information. 
 
 Project 5 -
 
