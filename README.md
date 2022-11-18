@@ -48,6 +48,8 @@ Project 5 -
 * Project 5 was all about power BI and dispalying data in a graphical and understandable manner for a user to use for decision making etc. The project was really enjoyable and I learned how powerfull power BI actually is and how to use it correctly. 
 
 Exam POE -
+* The POE contains all of the needed information and evidence of my work and learning throughout the semester. It is available at the following link
+* https://github.com/DanievdMerwe/CMPG-323-Overview---31648029/blob/b3e5cee1594e604e36f716289038313436fb43d3/31648029%20Portfolio%20of%20evidence.pdf
 
 # Branching strategy to be used with each project:
 I will be using the same branching strategy throughout all of my projects. These will consist of:
@@ -71,7 +73,7 @@ Project 4 - I used a .gitignore file to hide sensitive information.
 
 Project 5 -  I used a .gitignore file to hide sensitive information. 
 
-Exam POE -
+Exam POE - Did not have it's own repository 
 
 # Reference List
 
@@ -96,6 +98,8 @@ Project 5 -
 * https://github.com/DanievdMerwe/CMPG-323-Overview---31648029/blob/d372392d9dcdd9e494e62e305f7d09668913ac09/Project%205%20reference%20list.pdf
 
 Exam POE -
+* Did not have a reference list
+
 # Storage of credentials and sensitive information:
 
 The storage of all sensitive information and credentials will be stored externally from the repository and will be made available if it is requested. :)
