@@ -45,6 +45,7 @@ Project 4 -
 * Project 4 had a steep learning curve and was quite difficult. I really enjoyed the automation and can sy myself in such a field. The README file explains how it works and how it is used.
 
 Project 5 -
+* Project 5 was all about power BI and dispalying data in a graphical and understandable manner for a user to use for decision making etc. The project was really enjoyable and I learned how powerfull power BI actually is and how to use it correctly. 
 
 Exam POE -
 
@@ -68,7 +69,7 @@ Project 3 - I used a .gitignore file to hide sensitive information.
 
 Project 4 - I used a .gitignore file to hide sensitive information. 
 
-Project 5 -
+Project 5 -  I used a .gitignore file to hide sensitive information. 
 
 Exam POE -
 
@@ -92,6 +93,7 @@ Project 4 -
 * https://github.com/DanievdMerwe/CMPG-323-Overview---31648029/blob/e15c9f6ea0059b678e42c0ca42edd647b73ff349/Reference%20list%20Project4.pdf
 
 Project 5 -
+* https://github.com/DanievdMerwe/CMPG-323-Overview---31648029/blob/d372392d9dcdd9e494e62e305f7d09668913ac09/Project%205%20reference%20list.pdf
 
 Exam POE -
 # Storage of credentials and sensitive information:
